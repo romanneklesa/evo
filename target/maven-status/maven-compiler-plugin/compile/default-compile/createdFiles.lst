@@ -1,4 +1,0 @@
-security\service\UserService.class
-security\model\User.class
-security\controller\UserController.class
-security\dao\UserDao.class
